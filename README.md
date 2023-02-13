@@ -1,2 +1,3 @@
-# gtd
-gestionar tareas dinamicamente :3
+gestor de tareas dinamico
+
+pa que yo haga mis cosas :3
